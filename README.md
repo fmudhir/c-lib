@@ -2,7 +2,6 @@
 C Library
 ---------
 
-Components
-----------
+Components:
 - stack header (generic)
 
